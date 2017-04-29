@@ -1,0 +1,19 @@
+C:\vbn\ChessNet\Chess\bin\Debug\Chess.exe
+C:\vbn\ChessNet\Chess\bin\Debug\Chess.pdb
+C:\vbn\ChessNet\Chess\obj\Debug\ResolveAssemblyReference.cache
+C:\vbn\ChessNet\Chess\obj\Debug\Chess.exe
+C:\vbn\ChessNet\Chess\obj\Debug\Chess.pdb
+C:\Users\willi\Downloads\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\willi\Downloads\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\willi\Downloads\Chess\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\willi\Downloads\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\willi\Downloads\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\willi\Downloads\Chess\Chess\obj\Debug\Chess.ChessForm.resources
+C:\Users\willi\Downloads\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Drive\Ensino\Unifesp\5 Termo\IA\Trabalho 2\Chess_HC\bin\Debug\Chess.exe
+C:\Drive\Ensino\Unifesp\5 Termo\IA\Trabalho 2\Chess_HC\bin\Debug\Chess.pdb
+C:\Drive\Ensino\Unifesp\5 Termo\IA\Trabalho 2\Chess_HC\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Drive\Ensino\Unifesp\5 Termo\IA\Trabalho 2\Chess_HC\obj\Debug\Chess.ChessForm.resources
+C:\Drive\Ensino\Unifesp\5 Termo\IA\Trabalho 2\Chess_HC\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Drive\Ensino\Unifesp\5 Termo\IA\Trabalho 2\Chess_HC\obj\Debug\Chess.exe
+C:\Drive\Ensino\Unifesp\5 Termo\IA\Trabalho 2\Chess_HC\obj\Debug\Chess.pdb
